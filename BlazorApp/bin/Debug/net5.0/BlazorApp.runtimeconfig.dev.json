@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zhibe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zhibe\\.nuget\\packages"
+    ]
+  }
+}
